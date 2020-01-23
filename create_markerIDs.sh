@@ -1,0 +1,1 @@
+bcftools annotate --set-id +'%CHROM\_%POS\_%REF\_%FIRST_ALT' glyma.Wm82.gnm1.div.QXZK.SNPData.vcf.gz | bgzip > glyma.Wm82.gnm1.div.QXZK.SNPData.markerIDsAdded.vcf.gz
