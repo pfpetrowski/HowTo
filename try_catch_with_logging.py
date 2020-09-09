@@ -2,7 +2,6 @@
 
 import subprocess
 import logging
-import os
 
 
 
